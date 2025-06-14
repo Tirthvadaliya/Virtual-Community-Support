@@ -18,7 +18,7 @@ Virtual Community Support is a full-stack web application that enables users to:
 
 - **Frontend**: Angular
 - **Backend**: ASP.NET Core
-- **Database**: Entity Framework Core (SQL Server)
+- **Database**: Entity Framework Core (PostgreSQL)
 - **Other**: RESTful APIs, JWT Authentication
 
 ---
@@ -60,7 +60,7 @@ Virtual-Community-Support/
 - Node.js & npm
 - Angular CLI
 - .NET 8 SDK
-- SQL Server
+- PostgreSQL
 
 ### Setup
 
